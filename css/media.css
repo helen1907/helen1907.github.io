@@ -1,0 +1,909 @@
+@media screen and (max-width: 279px) {
+  .button {
+    display: block;
+    max-width: 110px;
+    height: 30px;
+    line-height: 30px;
+    font-size: 14.2px;
+    border-width: 1.2px;
+  }
+  .button:not(:last-child) {
+    margin-bottom: 20px;
+  }
+  .button:last-of-type {
+    margin-left: auto;
+  }
+}
+@media screen and (max-width: 259px) {
+  .telegram, .instagram, .gmail, .facebook {
+    width: 25px;
+    height: 25px;
+    margin: 0 2.3px;
+  }
+}
+@media screen and (min-width: 150px) {
+  h1 {
+    font-size: 19.4px;
+    margin-bottom: 12px;
+  }
+  h2 {
+    font-size: 12px;
+    margin-bottom: 42spx;
+  }
+}
+@media screen and (min-width: 170px) {
+  h1 {
+    font-size: 23px;
+    margin-bottom: 13px;
+  }
+  h2 {
+    font-size: 13px;
+    margin-bottom: 43px;
+  }
+}
+@media screen and (min-width: 180px) {
+  h1 {
+    font-size: 25.1px;
+  }
+}
+@media screen and (min-width: 190px) {
+  h1 {
+    font-size: 26.5px;
+  }
+}
+@media screen and (min-width: 200px) {
+  .container {
+    margin-top: 18vh;
+  }
+  h1 {
+    font-size: 28.1px;
+    margin-bottom: 14px;
+  }
+  h2 {
+    font-size: 14px;
+    margin-bottom: 44px;
+  }
+}
+@media screen and (min-width: 210px) {
+  h1 {
+    font-size: 30px;
+  }
+}
+@media screen and (min-width: 220px) {
+  h1 {
+    font-size: 31px;
+  }
+}
+@media screen and (min-width: 230px) {
+  h1 {
+    font-size: 32px;
+    margin-bottom: 15px;
+  }
+  h2 {
+    font-size: 15px;
+    margin-bottom: 45px;
+  }
+}
+@media screen and (min-width: 240px) {
+  h1 {
+    font-size: 33px;
+  }
+}
+@media screen and (min-width: 250px) {
+  h1 {
+    font-size: 34px;
+  }
+  .telegram, .instagram, .gmail, .facebook {
+    width: 28px;
+    height: 28px;
+    margin: 0 2.5px;
+  }
+}
+@media screen and (min-width: 260px) {
+  h1 {
+    font-size: 35px;
+  }
+  h2 {
+    font-size: 15px;
+    margin-bottom: 38px;
+  }
+}
+@media screen and (min-width: 270px) {
+  h1 {
+    font-size: 36px;
+  }
+  .container {
+    margin-top: 19vh;
+  }
+}
+@media screen and (min-width: 280px) {
+  h1 {
+    font-size: 37px;
+    margin-bottom: 18px;
+  }
+  .button {
+    max-width: 113px;
+    height: 33px;
+    line-height: 33px;
+    font-size: 14.5px;
+    border-width: 1.6px;
+  }
+  .button:first-of-type {
+    margin-bottom: 21px;
+  }
+  .button:last-of-type {
+    margin-left: 15px;
+  }
+}
+@media screen and (min-width: 290px) {
+  h1 {
+    font-size: 38px;
+  }
+}
+@media screen and (min-width: 300px) {
+  h1 {
+    font-size: 39px;
+  }
+}
+@media screen and (min-width: 310px) {
+  h1 {
+    font-size: 40px;
+  }
+  h2 {
+    font-size: 16px;
+    margin-bottom: 39px;
+  }
+}
+@media screen and (min-width: 320px) {
+  h1 {
+    font-size: 41px;
+    margin-bottom: 20px;
+  }
+}
+@media screen and (min-width: 330px) {
+  h1 {
+    font-size: 42px;
+  }
+}
+@media screen and (min-width: 340px) {
+  h1 {
+    font-size: 43px;
+    margin-bottom: 22px;
+  }
+  h2 {
+    font-size: 17px;
+    margin-bottom: 40px;
+  }
+}
+@media screen and (min-width: 350px) {
+  h1 {
+    font-size: 44px;
+  }
+}
+@media screen and (min-width: 360px) {
+  h1 {
+    font-size: 45px;
+  }
+}
+@media screen and (min-width: 370px) {
+  /* h1 {
+    font-size: 45px;
+  } */
+  h2 {
+    font-size: 18px;
+    margin-bottom: 41px;
+  }
+  .telegram, .instagram, .gmail, .facebook {
+    width: 30px;
+    height: 30px;
+    margin: 0 2.7px;
+  }
+}
+@media screen and (min-width: 380px) {
+  h1 {
+    font-size: 46px;
+  }
+}
+@media screen and (min-width: 400px) {
+  h1 {
+    /* font-size: 46px; */
+    margin-bottom: 25px;
+  }
+  .button {
+    max-width: 115px;
+    height: 35px;
+    line-height: 35px;
+    font-size: 15px;
+    border-width: 1.7px;
+  }
+  .button:first-of-type {
+    margin-bottom: 22px;
+  }
+  .button:last-of-type {
+    margin-left: 16px;
+  }
+}
+@media screen and (min-width: 410px) {
+  h1 {
+    font-size: 47px;
+  }
+  h2 {
+    font-size: 19px;
+    margin-bottom: 44px;
+  }
+}
+@media screen and (min-width: 420px) {
+  h1 {
+    font-size: 48px;
+    margin-bottom: 30px;
+  }
+}
+@media screen and (min-width: 430px) {
+  h1 {
+    font-size: 50px;
+  }
+  .telegram, .instagram, .gmail, .facebook {
+    width: 35px;
+    height: 35px;
+    margin: 0 2.9px;
+  }
+}
+@media screen and (min-width: 450px) {
+  h1 {
+    font-size: 53px;
+  }
+  h2 {
+    font-size: 20px;
+    margin-bottom: 48px;
+  }
+  .button {
+    max-width: 120px;
+    height: 40px;
+    line-height: 40px;
+    font-size: 16px;
+    border-width: 1.8px;
+  }
+  .button:first-of-type {
+    margin-bottom: 23px;
+  }
+  .button:last-of-type {
+    margin-left: 17px;
+  }
+}
+@media screen and (min-width: 475px) {
+  h1 {
+    font-size: 59px;
+  }
+  h2 {
+    font-size: 21px;
+    margin-bottom: 51px;
+  }
+}
+@media screen and (min-width: 500px) {
+  h1 {
+    font-size: 60px;
+    margin-bottom: 35px;
+  }
+  .button {
+    max-width: 130px;
+    height: 45px;
+    line-height: 45px;
+    font-size: 17px;
+    border-width: 1.9px;
+  }
+  .button:first-of-type {
+    margin-bottom: 24px;
+  }
+  .button:last-of-type {
+    margin-left: 18px;
+  }
+}
+@media screen and (min-width: 600px) {
+  /* h1 {
+    font-size: 60px;
+  } */
+  h2 {
+    font-size: 22px;
+    margin-bottom: 52px;
+  }
+}
+@media screen and (min-width: 700px) {
+  h1 {
+    font-size: 62px;
+  }
+}
+@media screen and (min-width: 800px) {
+  h1 {
+    font-size: 64px;
+  }
+
+}
+@media screen and (min-width: 900px) {
+  h1 {
+    font-size: 65px;
+  }
+  h2 {
+    font-size: 23px;
+    margin-bottom: 54px;
+  }
+}
+@media screen and (min-width: 1000px) {
+  h1 {
+    font-size: 71px;
+  }
+}
+@media screen and (min-width: 1100px) {
+  h1 {
+    font-size: 68px;
+  }
+  .button {
+    max-width: 140px;
+    height: 50px;
+    line-height: 50px;
+    font-size: 18px;
+    border-width: 2px;
+  }
+  .button:first-of-type {
+    margin-bottom: 25px;
+  }
+  .button:last-of-type {
+    margin-left: 19px;
+  }
+}
+@media screen and (min-width: 1200px) {
+  h1 {
+    font-size: 70px;
+  }
+  h2 {
+    font-size: 24px;
+    margin-bottom: 55px;
+  }
+}@media screen and (min-width: 1300px) {
+  h1 {
+    font-size: 75px;
+  }
+}
+@media screen and (min-width: 1400px) {
+  h1 {
+    font-size: 80px;
+  }
+}
+@media screen and (min-width: 1500px) {
+  h1 {
+    font-size: 90px;
+  }
+  h2 {
+    font-size: 28px;
+    margin-bottom: 59px;
+  }
+  .button {
+    max-width: 155px;
+    height: 62px;
+    line-height: 62px;
+    font-size: 20px;
+    border-width: 2.3px;
+  }
+  .button:first-of-type {
+    margin-bottom: 30px;
+  }
+  .button:last-of-type {
+    margin-left: 22px;
+  }
+  .telegram, .instagram, .gmail, .facebook {
+    width: 45px;
+    height: 45px;
+    margin: 0 3.1px;
+}
+}
+@media screen and (min-width: 1600px) {
+  h1 {
+    font-size: 105px;
+  }
+  h2 {
+    font-size: 31px;
+    margin-bottom: 62px;
+  }
+}
+@media screen and (min-width: 1700px) {
+  h1 {
+    font-size: 110px;
+  }
+  h2 {
+    font-size: 34px;
+    margin-bottom: 65px;
+  }
+  .button {
+    max-width: 160px;
+    height: 65px;
+    line-height: 65px;
+    font-size: 21px;
+    border-width: 2.6px;
+  }
+  .button:first-of-type {
+    margin-bottom: 33px;
+  }
+  .button:last-of-type {
+    margin-left: 25px;
+  }
+  .telegram, .instagram, .gmail, .facebook {
+    width: 50px;
+    height: 50px;
+    margin: 0 3.2px;
+}
+}
+@media screen and (min-width: 1800px) {
+  /* h1 {
+    font-size: 135px;
+  } */
+  h2 {
+    font-size: 37px;
+    margin-bottom: 68px;
+  }
+}
+@media screen and (min-width: 1900px) {
+  h1 {
+    font-size: 120px;
+  }
+  h2 {
+    font-size: 40px;
+    margin-bottom: 91px;
+  }
+  .button {
+    max-width: 170px;
+    height: 70px;
+    line-height: 70px;
+    font-size: 22px;
+    border-width: 2.8px;
+  }
+  .button:first-of-type {
+    margin-bottom: 36px;
+  }
+  .button:last-of-type {
+    margin-left: 27px;
+  }
+  .telegram, .instagram, .gmail, .facebook {
+    width: 55px;
+    height: 55px;
+    margin: 0 3.3px;
+}
+}
+@media screen and (min-width: 2000px) {
+  h1 {
+    font-size: 135px;
+  }
+  h2 {
+    font-size: 43px;
+    margin-bottom: 94px;
+  }
+}
+@media screen and (min-width: 2100px) {
+  h1 {
+    font-size: 140px;
+  }
+  h2 {
+    margin-bottom: 97px;
+  }
+  .button {
+    max-width: 180px;
+    height: 75px;
+    line-height: 75px;
+    font-size: 24px;
+    border-width: 2.9px;
+  }
+  .button:first-of-type {
+    margin-bottom: 38px;
+  }
+  .button:last-of-type {
+    margin-left: 29px;
+  }
+  .telegram, .instagram, .gmail, .facebook {
+    width: 60px;
+    height: 60px;
+    margin: 0 3.4px;
+}
+}
+@media screen and (min-width: 2200px) {
+  h1 {
+    font-size: 150px;
+  }
+  h2 {
+    font-size: 46px;
+    margin-bottom: 100px;
+  }
+}
+@media screen and (min-width: 2300px) {
+  h1 {
+    font-size: 160px;
+  }
+  h2 {
+    font-size: 49px;
+    margin-bottom: 103px;
+  }
+  .button {
+    max-width: 190px;
+    height: 80px;
+    line-height: 80px;
+    font-size: 25px;
+    border-width: 3px;
+  }
+  .button:first-of-type {
+    margin-bottom: 40px;
+  }
+  .button:last-of-type {
+    margin-left: 30px;
+  }
+  .telegram, .instagram, .gmail, .facebook {
+    width: 65px;
+    height: 65px;
+    margin: 0 3.5px;
+}
+}
+@media screen and (min-width: 2400px) {
+  h1 {
+    font-size: 170px;
+  }
+
+}
+@media screen and (min-width: 2500px) {
+  h1 {
+    font-size: 180px;
+  }
+  h2 {
+    font-size: 52px;
+    margin-bottom: 108px;
+  }
+  .button {
+    max-width: 200px;
+    height: 85px;
+    line-height: 85px;
+    font-size: 26px;
+    border-width: 3.1px;
+  }
+  .button:first-of-type {
+    margin-bottom: 42px;
+  }
+  .button:last-of-type {
+    margin-left: 32px;
+  }
+  .telegram, .instagram, .gmail, .facebook {
+    width: 70px;
+    height: 70px;
+    margin: 0 3.6px;
+}
+}
+/* @media screen and (min-width: 2600px) {
+  h1 {
+    font-size: 180px;
+  } */
+}
+@media screen and (min-width: 2700px) {
+  h1 {
+    font-size: 190px;
+  }
+  h2 {
+    font-size: 55px;
+    margin-bottom: 113px;
+  }
+  .button {
+    max-width: 210px;
+    height: 90px;
+    line-height: 90px;
+    font-size: 27px;
+    border-width: 3.2px;
+  }
+  .button:first-of-type {
+    margin-bottom: 44px;
+  }
+  .button:last-of-type {
+    margin-left: 34px;
+  }
+  .telegram, .instagram, .gmail, .facebook {
+    width: 75px;
+    height: 75px;
+    margin: 0 3.7px;
+}
+}
+@media screen and (min-width: 2800px) {
+  h1 {
+    font-size: 210px;
+  }
+}
+@media screen and (min-width: 2900px) {
+  h1 {
+    font-size: 225px;
+  }
+  h2 {
+    font-size: 58px;
+    margin-bottom: 118px;
+  }
+  .button {
+    max-width: 220px;
+    height: 95px;
+    line-height: 95px;
+    font-size: 28px;
+    border-width: 3.3px;
+  }
+  .button:first-of-type {
+    margin-bottom: 46px;
+  }
+  .button:last-of-type {
+    margin-left: 36px;
+  }
+  .telegram, .instagram, .gmail, .facebook {
+    width: 80px;
+    height: 80px;
+    margin: 0 3.8px;
+}
+}
+@media screen and (min-width: 3000px) {
+  h1 {
+    font-size: 228px;
+  }
+}
+@media screen and (min-width: 3100px) {
+  h1 {
+    font-size: 231px;
+  }
+  .telegram, .instagram, .gmail, .facebook {
+    width: 85px;
+    height: 85px;
+    margin: 0 3.9px;
+}
+}
+@media screen and (min-width: 3200px) {
+  h1 {
+    font-size: 234px;
+  }
+  h2 {
+    font-size: 61px;
+    margin-bottom: 123px;
+  }
+  .button {
+    max-width: 230px;
+    height: 100px;
+    line-height: 100px;
+    font-size: 29px;
+    border-width: 3.4px;
+  }
+  .button:first-of-type {
+    margin-bottom: 48px;
+  }
+  .button:last-of-type {
+    margin-left: 38px;
+  }
+}
+@media screen and (min-width: 3300px) {
+  h1 {
+    font-size: 237px;
+  }
+  .telegram, .instagram, .gmail, .facebook {
+    width: 90px;
+    height: 90px;
+    margin: 0 4px;
+}
+
+}
+@media screen and (min-width: 3400px) {
+  h1 {
+    font-size: 240px;
+  }
+  .button {
+    max-width: 240px;
+    height: 105px;
+    line-height: 105px;
+    font-size: 30px;
+    border-width: 3.5px;
+  }
+  .button:first-of-type {
+    margin-bottom: 50px;
+  }
+  .button:last-of-type {
+    margin-left: 40px;
+  }
+}
+@media screen and (min-width: 3500px) {
+  h1 {
+    font-size: 243px;
+  }
+  h2 {
+    font-size: 64px;
+    margin-bottom: 128px;
+  }
+  .telegram, .instagram, .gmail, .facebook {
+    width: 95px;
+    height: 95px;
+    margin: 0 4.1px;
+}
+}
+@media screen and (min-width: 3600px) {
+  h1 {
+    font-size: 246px;
+  }
+}
+@media screen and (min-width: 3700px) {
+  h1 {
+    font-size: 249px;
+  }
+  .button {
+    max-width: 250px;
+    height: 110px;
+    line-height: 110px;
+    font-size: 31px;
+    border-width: 3.6px;
+  }
+  .button:first-of-type {
+    margin-bottom: 52px;
+  }
+  .button:last-of-type {
+    margin-left: 42px;
+  }
+  .telegram, .instagram, .gmail, .facebook {
+    width: 100px;
+    height: 100px;
+    margin: 0 4.3px;
+}
+}
+@media screen and (min-width: 3800px) {
+  h1 {
+    font-size: 252px;
+  }
+  h2 {
+    font-size: 67px;
+    margin-bottom: 133px;
+  }
+}
+@media screen and (min-width: 3900px) {
+  h1 {
+    font-size: 255px;
+  }
+  .button {
+    max-width: 260px;
+    height: 115px;
+    line-height: 115px;
+    font-size: 32px;
+    border-width: 3.7px;
+  }
+  .button:first-of-type {
+    margin-bottom: 54px;
+  }
+  .button:last-of-type {
+    margin-left: 44px;
+  }
+  .telegram, .instagram, .gmail, .facebook {
+    width: 105px;
+    height: 105px;
+    margin: 0 4.4px;
+}
+}
+@media screen and (min-width: 4000px) {
+  h1 {
+    font-size: 258px;
+  }
+}
+@media screen and (min-width: 4100px) {
+  h1 {
+    font-size: 261px;
+  }
+  h2 {
+    font-size: 70px;
+    margin-bottom: 138px;
+  }
+  .button {
+    max-width: 270px;
+    height: 120px;
+    line-height: 120px;
+    font-size: 33px;
+    border-width: 3.8px;
+  }
+  .button:first-of-type {
+    margin-bottom: 56px;
+  }
+  .button:last-of-type {
+    margin-left: 46px;
+  }
+  .telegram, .instagram, .gmail, .facebook {
+    width: 110px;
+    height: 110px;
+    margin: 0 4.5px;
+}
+}
+@media screen and (min-width: 4200px) {
+  h1 {
+    font-size: 264px;
+  }
+}
+@media screen and (min-width: 4300px) {
+  h1 {
+    font-size: 267px;
+  }
+  .button {
+    max-width: 280px;
+    height: 125px;
+    line-height: 125px;
+    font-size: 34px;
+    border-width: 3.9px;
+  }
+  .button:first-of-type {
+    margin-bottom: 58px;
+  }
+  .button:last-of-type {
+    margin-left: 48px;
+  }
+  .telegram, .instagram, .gmail, .facebook {
+    width: 115px;
+    height: 115px;
+    margin: 0 4.6px;
+}
+}
+@media screen and (min-width: 4400px) {
+  h1 {
+    font-size: 270px;
+  }
+  h2 {
+    font-size: 73px;
+    margin-bottom: 143px;
+  }
+}
+@media screen and (min-width: 4500px) {
+  h1 {
+    font-size: 273px;
+    /* font-size: 173px; */
+  }
+  .button {
+    max-width: 290px;
+    height: 130px;
+    line-height: 130px;
+    font-size: 35px;
+    border-width: 4px;
+  }
+  .button:first-of-type {
+    margin-bottom: 60px;
+  }
+  .button:last-of-type {
+    margin-left: 50px;
+  }
+  .telegram, .instagram, .gmail, .facebook {
+    width: 120px;
+    height: 120px;
+    margin: 0 4.7px;
+}
+}
+@media screen and (min-width: 4600px) {
+  .button {
+    max-width: 300px;
+    height: 135px;
+    line-height: 135px;
+    font-size: 36px;
+    border-width: 4.1px;
+  }
+  .button:first-of-type {
+    margin-bottom: 62px;
+  }
+  .button:last-of-type {
+    margin-left: 52px;
+  }
+}
+@media screen and (min-width: 5000px) {
+  h1 {
+    font-size: 278px;
+    /* font-size: 178px; */
+  }
+  .button {
+    max-width: 320px;
+    height: 145px;
+    line-height: 145px;
+    font-size: 38px;
+    border-width: 4.3px;
+  }
+  .button:first-of-type {
+    margin-bottom: 65px;
+  }
+  .button:last-of-type {
+    margin-left: 55px;
+  }
+  .telegram, .instagram, .gmail, .facebook {
+    width: 130px;
+    height: 130px;
+    margin: 0 5px;
+}
+}
